@@ -3,7 +3,7 @@
   "adsInterval":45,
   "showAppOpenAd":true,
   "showFirstAd":true,
-  "showTestAds":true,
+  "showTestAds":false,
   "showBannerAds":true,
   "interstitialAdUnit":"/22405025169,22727539007/com.cadastrapps.pis.pasep.abono.salarial.Interstitial",
   "openAppAdUnitId":"/22405025169,22727539007/com.cadastrapps.pis.pasep.abono.salarial.AppOpen",
