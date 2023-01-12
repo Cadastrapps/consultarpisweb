@@ -1,0 +1,12 @@
+{
+  "showAds":true,
+  "adsInterval":30,
+  "showAppOpenAd":true,
+  "showFirstAd":true,
+  "showTestAds":true,
+  "showBannerAds":true,
+  "interstitialAdUnit":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.Interstitial",
+  "openAppAdUnitId":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.AppOpen",
+  "bannerAdUnit":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.Banner"
+  
+}
