@@ -1,11 +1,11 @@
 {
   "showAds":true,
-  "adsInterval":45,
-  "showAppOpenAd":true,
+  "adsInterval":60,
+  "showAppOpenAd":false,
   "showInterstitial":true,
   "showFirstAd":false,
   "showTestAds":false,
-  "showBannerAds":true,
+  "showBannerAds":false,
   "interstitialAdUnit":"/22405025169,22870746737/com.cadastrapps.pis.pasep.abono.salarial.Interstitial1",
   "openAppAdUnitId":"/22405025169,22870746737/com.cadastrapps.pis.pasep.abono.salarial.AppOpen1",
   "bannerAdUnit":"/22405025169,22870746737/com.cadastrapps.pis.pasep.abono.salarial.Banner1"
