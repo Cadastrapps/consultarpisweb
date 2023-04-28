@@ -5,9 +5,9 @@
   "showInterstitial":true,
   "showFirstAd":false,
   "showTestAds":false,
-  "showBannerAds":false,
-  "interstitialAdUnit":"/22405025169,22870746737/com.cadastrapps.pis.pasep.abono.salarial.Interstitial1",
-  "openAppAdUnitId":"/22405025169,22870746737/com.cadastrapps.pis.pasep.abono.salarial.AppOpen1",
-  "bannerAdUnit":"/22405025169,22870746737/com.cadastrapps.pis.pasep.abono.salarial.Banner1"
+  "showBannerAds":true,
+  "interstitialAdUnit":"ca-app-pub-7996006950744275/9938665580",
+  "openAppAdUnitId":"ca-app-pub-7996006950744275/3181685540",
+  "bannerAdUnit":"ca-app-pub-7996006950744275/4686338905"
   
 }
