@@ -4,7 +4,7 @@
   "showAppOpenAd":false,
   "showInterstitial":true,
   "showFirstAd":false,
-  "showTestAds":true,
+  "showTestAds":false,
   "showBannerAds":true,
   "interstitialAdUnit":"ca-app-pub-7996006950744275/9938665580",
   "openAppAdUnitId":"ca-app-pub-7996006950744275/3181685540",
