@@ -6,6 +6,7 @@
   "showFirstAd":false,
   "showTestAds":false,
   "showBannerAds":true,
+  "showAppbrodaAds":true,
   "interstitialAdUnit":"ca-app-pub-7996006950744275/9938665580",
   "openAppAdUnitId":"ca-app-pub-7996006950744275/3181685540",
   "bannerAdUnit":"ca-app-pub-7996006950744275/4686338905"
